@@ -1,0 +1,4 @@
+build/
+mbed-os/
+.cache/
+compile_commands.json

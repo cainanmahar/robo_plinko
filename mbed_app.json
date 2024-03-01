@@ -1,0 +1,10 @@
+{
+    "target_overrides": {
+        "*": {
+            "rtos.thread-stack-size": 2048
+        },
+        "K64F": {
+            "platform.stdio-baud-rate": 9600
+        }
+    }
+}
